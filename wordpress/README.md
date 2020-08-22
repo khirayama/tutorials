@@ -29,3 +29,4 @@
 
 - [Theme Development « WordPress Codex](https://codex.wordpress.org/Theme_Development)
 - [テーマの作成 - WordPress Codex 日本語版](https://wpdocs.osdn.jp/%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E4%BD%9C%E6%88%90)
+- [WordPress コーディング規約 - Japanese Team](https://ja.wordpress.org/team/handbook/coding-standards/wordpress-coding-standards/)

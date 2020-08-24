@@ -20,6 +20,9 @@
 
 ## テーマの作成
 
+- [テーマの作成 - WordPress Codex 日本語版](https://wpdocs.osdn.jp/%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AE%E4%BD%9C%E6%88%90)
+- テーマ用ディレクトリを `/wp-content/themes/` 配下に作成します
+
 ## 方針
 
 - WordPressでは標準的な構成を尊重します
